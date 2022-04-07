@@ -3,12 +3,12 @@
 A theme for Ulauncher. Yaru Dark theme.
 
 ## Screenshot
-![](https://i.imgur.com/uOYll2u.png)
+![](https://uploaddeimagens.com.br/images/003/817/163/original/Screenshot-Ulauncher.png?1649353669)
 
 ## Installation
 
 ```sh
 mkdir -p ~/.config/ulauncher/user-themes
-git clone https://github.com/Raayib/Yaru-Dark-ulauncher.git \
+git clone https://github.com/jdorigao/Yaru-Dark-ulauncher.git \
   ~/.config/ulauncher/user-themes/Yaru-Dark-ulauncher
 ```
